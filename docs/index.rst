@@ -6,7 +6,7 @@ How to Log in to My ExpressVPN Account: A Step-by-Step Guide
    :caption: Contents:
 Learn how to easily log in to your ExpressVPN account, troubleshoot common issues, and get the most out of your VPN service.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Express VPN
    :width: 400px
    :align: center
